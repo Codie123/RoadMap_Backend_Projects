@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "desc": "hardware",
+    "amount": "1500",
+    "createdAt": "2024-09-12T14:10:21.860Z",
+    "updatedAt": "2024-09-12T14:10:21.861Z"
+  },
+  {
+    "id": 2,
+    "desc": "Monitor",
+    "amount": "400Aed",
+    "createdAt": "2024-09-12T14:10:35.867Z",
+    "updatedAt": "2024-09-12T14:10:35.867Z"
+  },
+  {
+    "id": 3,
+    "desc": "Skateboard_Deck",
+    "amount": "200Aed",
+    "createdAt": "2024-09-12T14:10:52.418Z",
+    "updatedAt": "2024-09-12T14:10:52.418Z"
+  }
+]
